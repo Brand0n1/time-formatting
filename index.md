@@ -10,6 +10,7 @@ Lets start off by saying that the dashes `:` don't have anything to do with the 
 - `mm` Make sure to use lowercase `mm` in the date formatting for minutes. This is beacuse the capitol `MM` is used for the month.
 - `ss` Using the lowercase `ss` will result in the total seconds in the minute
 - `SS` Using the capitol `SS` will result in the total miliseconds
+- `aa` Using the lowercase `aa` will result in getting AM or PM
 
 
 ### Pages
