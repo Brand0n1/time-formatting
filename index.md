@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Time Formatting
 
-You can use the [editor on GitHub](https://github.com/Brand0n1/time-formatting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+When formatting a date there is multiple diffrent patterns you can use. You can found out more about this by reading the [Java docs by Oracle]( https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Understanding the different components of date formatting
+Lets start off by saying that the dashes `:` don't have anything to do with the actual formatting, and are just added in so it reads nicer.
 
-### Markdown
+- `HH` Using the capitol `HH` makes it so that the time will be in 24 hour format
+- `hh` Using the lowercase `hh` makes it so that the time will be in 12 hour format
+- `mm` Make sure to use lowercase `mm` in the date formatting for minutes. This is beacuse the capitol `MM` is used for the month.
+- `ss` Using the lowercase `ss` will result in the total seconds in the minute
+- `SS` Using the capitol `SS` will result in the total miliseconds
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Brand0n1/time-formatting/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Pages
+- [Main Page](https://brand0n1.github.io/)
+- [Mob List (SpawnerShards)](https://brand0n1.github.io/minecraft-mob-list/)
+- [Date Formatting](https://brand0n1.github.io/date-formatting/)
