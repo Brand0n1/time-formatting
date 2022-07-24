@@ -13,6 +13,7 @@ Lets start off by saying that the dashes `:` don't have anything to do with the 
 
 
 ### Pages
-- [Main Page](https://brand0n1.github.io/)
+- [Home Page](https://brand0n1.github.io/)
 - [Mob List (SpawnerShards)](https://brand0n1.github.io/minecraft-mob-list/)
 - [Date Formatting](https://brand0n1.github.io/date-formatting/)
+- [Time Formatting](https://brand0n1.github.io/time-formatting/)
